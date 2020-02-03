@@ -110,3 +110,7 @@ body {
     color: white;
     text-decoration: none;
 }
+
+.pt {
+    padding-top: 55px;
+}
