@@ -23,7 +23,7 @@ body {
 }
 
 .panel {
-    background: #6b0f9c;
+    background: #EB0A1E;
     box-shadow: inset 0 0 0 5px rgba(255, 255, 255, 0.1);
     color: white;
     text-align: center;
@@ -42,23 +42,23 @@ body {
 }
 
 .panel1 {
-    background-image: url();
+    background-image: url(https://www.toyota.com/imgix/responsive/images/gallery/photos-videos/2020/highlander/HLD_MY20_0042_V001.png?w=2880&q=90&fm=jpg&fit=max&cs=strip&bg=fff&auto=compress);
 }
 
 .panel2 {
-    background-image: url();
+    background-image: url(https://www.toyota.com/imgix/responsive/images/gallery/photos-videos/2020/tacoma/TAC_MY20_0050_V001.png?w=2880&q=90&fm=jpg&fit=max&cs=strip&bg=fff&auto=compress);
 }
 
 .panel3 {
-    background-image: url();
+    background-image: url(https://www.toyota.com/imgix/responsive/images/gallery/photos-videos/2019/prius/PRS_MY19_0015_V001.png?w=2880&q=90&fm=jpg&fit=max&cs=strip&bg=fff&auto=compress);
 }
 
 .panel4 {
-    background-image: url();
+    background-image: url(https://www.toyota.com/imgix/responsive/images/gallery/photos-videos/2020/rav4/RAV_MY20_0007_V001.png?w=2880&q=90&fm=jpg&fit=max&cs=strip&bg=fff&auto=compress);
 }
 
 .panel5 {
-    background-image: url();
+    background-image: url(https://www.toyota.com/imgix/responsive/images/gallery/photos-videos/2020/c-hr/CHR_MY20_0003_V001.png?w=2880&q=90&fm=jpg&fit=max&cs=strip&bg=fff&auto=compress);
 }
 
 
